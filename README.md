@@ -1,2 +1,2 @@
 ## lighthouse-role
-Данная роль устаналивает lighthouse
+the role is used to install the lighthouse
